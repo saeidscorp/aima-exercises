@@ -1,0 +1,39 @@
+1-
+  a- Intelligence: Intelligence is to have the close-to-reality perceptions.
+  b- Artificial Intelligence: To have a machine that percepts the world close to what it is.
+  c- Agent: An entity with perception.
+  d- Rationality: Quality of making decisions and behaving to reach a goal.
+  e- Logical Reasoning: The process of turning an input to an output using a devised transformation system.
+
+2- ?
+
+3- Yes, they are rational, but not intelligent. Reflex actions are too simple to consider other situations that the relfex could be harmful.
+
+4- No. IQ tests are limited in term of range of skills being tested. It might well outperform a human on this special test, but it still has no dynamism in new situations.
+
+5- It has direct relation to the number of neurons; more neurons, more computing power.
+
+6- Inner-thoughts are not accurate by themselves; we are only conscious of a fraction of our perceptive load. Then when we try to capture our inner-thoughts by introspection, we add some other workload that may change thinking on original problem.
+
+7- Supermarket bar code scanner: Not intelligent at all. It does not comply with change of the world.
+   Web search engines: A little. The use NLP techniques to gather information from websites, and to find patterns. The world of the engine is unknown (to some extent).
+   Voice-activated telephone menus: Not intelligent at all. They are just matching some forms of signals to match a pre-defined set of menu options.
+   Internet routing algorithms: A little intelligent. The world of them is not fixed. They can evolve (to a limited extent)
+
+8- Agents may undertake different methods to the same problem. In vision systems the first devised model of information processing is like that, but our brain has a different functionality. Maybe our brain's model does it better.
+
+9- Because they are designed to maximize the rationality of the actions. They goal is more rationality.
+
+10- Both. It's a science with full range of different theories and ideas. It's also engineering becuase it needs to bring ideas to real world and test them in action.
+
+11- The second statement is true, computers do what we tell them, but it doesn't imply the former statement. Intelligence may be implementable by computers.
+
+12- The latter is true, but genes specify the circuitry of their brain, the have a bit of adaption.
+
+13- All that sentence has to do is with authority, not intelligence.
+
+14- Playing table tennis: YES.
+    Driving: NO. --> Requires tight integration of different disciplines of AI.
+    ...
+
+15- ???
